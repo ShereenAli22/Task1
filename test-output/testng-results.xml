@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-24T19:42:46 EET" name="Default suite" finished-at="2022-12-24T19:43:39 EET" duration-ms="53004">
+    <groups>
+    </groups>
+    <test started-at="2022-12-24T19:42:46 EET" name="Default test" finished-at="2022-12-24T19:43:39 EET" duration-ms="53004">
+      <class name="TestCases.NewTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.NewTest@3427b02d]" started-at="2022-12-24T19:42:46 EET" name="Setup" finished-at="2022-12-24T19:42:56 EET" duration-ms="10125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SeconedScenario()[pri:1, instance:TestCases.NewTest@3427b02d]" started-at="2022-12-24T19:42:56 EET" name="SeconedScenario" finished-at="2022-12-24T19:43:08 EET" duration-ms="12260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeconedScenario -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:TestCases.NewTest@3427b02d]" started-at="2022-12-24T19:43:08 EET" name="Close" finished-at="2022-12-24T19:43:08 EET" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.NewTest@3427b02d]" started-at="2022-12-24T19:43:08 EET" name="Setup" finished-at="2022-12-24T19:43:22 EET" duration-ms="14024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="FirstScenario()[pri:2, instance:TestCases.NewTest@3427b02d]" started-at="2022-12-24T19:43:22 EET" name="FirstScenario" finished-at="2022-12-24T19:43:38 EET" duration-ms="15981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstScenario -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:TestCases.NewTest@3427b02d]" started-at="2022-12-24T19:43:38 EET" name="Close" finished-at="2022-12-24T19:43:39 EET" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- TestCases.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
